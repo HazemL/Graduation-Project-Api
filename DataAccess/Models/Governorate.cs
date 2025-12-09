@@ -14,6 +14,6 @@ namespace DataAccess.Models
         public string ArabicName { get; set; }
 
         // Navigation
-        public virtual ICollection<City> Cities { get; set; }
+        public virtual ICollection<City>? Cities { get; set; }
     }
 }

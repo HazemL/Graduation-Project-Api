@@ -12,9 +12,9 @@ namespace DataAccess.Models
     {
         
 
-        [ForeignKey("CraftsmanSubscription")]
+        [ForeignKey("CraftsmansSubscriptions")]
         public int SubscriptionId { get; set; }
-        public virtual CraftsmanSubscription Subscription { get; set; }
+        public virtual CraftsmanSubscription? Subscription { get; set; }
 
         [Column(TypeName = "decimal(18,2)")]
         public decimal Amount { get; set; }

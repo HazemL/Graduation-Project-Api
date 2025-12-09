@@ -12,13 +12,13 @@ namespace DataAccess.Models
     {
         
 
-        [ForeignKey("Craftsman")]
+        [ForeignKey("Craftsmens")]
         public int CraftsmanId { get; set; }
-        public virtual Craftsman Craftsman { get; set; }
+        public virtual Craftsman? Craftsman { get; set; }
 
-        [ForeignKey("SubscriptionPlan")]
+        [ForeignKey("SubscriptionPlans")]
         public int PlanId { get; set; }
-        public virtual SubscriptionPlan Plan { get; set; }
+        public virtual SubscriptionPlan? Plan { get; set; }
 
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
@@ -26,6 +26,6 @@ namespace DataAccess.Models
         public string Status { get; set; }
 
 
-        public virtual ICollection<Payment> Payments { get; set; }
+        public virtual ICollection<Payment>? Payments { get; set; }
     }
 }

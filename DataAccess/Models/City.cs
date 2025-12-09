@@ -11,9 +11,10 @@ namespace DataAccess.Models
     public class City :BaseModel
     {
        
-        [ForeignKey("Governorate")]
+       
+        [ForeignKey("Governorates")]
         public int GovernorateId { get; set; }
-        public virtual Governorate Governorate { get; set; }
+        public  Governorate? Governorate { get; set; }
 
         public string Name { get; set; }
         public string ArabicName { get; set; }
@@ -21,6 +22,6 @@ namespace DataAccess.Models
         public decimal Longitude { get; set; }
 
         // Navigation
-        public virtual ICollection<CraftsmanCity> CraftsmanCities { get; set; }
+        public virtual ICollection<CraftsmanCity>? CraftsmanCities { get; set; }
     }
 }

@@ -12,13 +12,13 @@ namespace DataAccess.Models
     {
        
 
-        [ForeignKey("Craftsman")]
+        [ForeignKey("Craftsmens")]
         public int CraftsmanId { get; set; }
-        public virtual Craftsman Craftsman { get; set; }
+        public virtual Craftsman? Craftsman { get; set; }
 
-        [ForeignKey("City")]
+        [ForeignKey("Citys")]
         public int CityId { get; set; }
-        public virtual City City { get; set; }
+        public virtual City? City { get; set; }
 
         public bool IsPrimary { get; set; }
     }

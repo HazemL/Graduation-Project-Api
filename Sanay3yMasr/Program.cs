@@ -1,4 +1,9 @@
 
+using DataAccess.Context;
+using Microsoft.EntityFrameworkCore;
+
+
+
 namespace Sanay3yMasr
 {
     public class Program
@@ -12,6 +17,14 @@ namespace Sanay3yMasr
             builder.Services.AddControllers();
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             builder.Services.AddOpenApi();
+            //inject DB ==> register connection string
+            builder.Services.AddDbContext<Context>(options =>
+            options.UseSqlServer(builder.Configuration.GetConnectionString("CS"),
+                    sql => sql.MigrationsAssembly("Sanay3yMasr")
+
+
+            ));
+
 
             var app = builder.Build();
 
@@ -31,4 +44,6 @@ namespace Sanay3yMasr
             app.Run();
         }
     }
+
+   
 }

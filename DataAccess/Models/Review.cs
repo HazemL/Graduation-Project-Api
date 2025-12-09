@@ -12,13 +12,13 @@ namespace DataAccess.Models
     {
        
 
-        [ForeignKey("User")]
-        public int UserId { get; set; } 
-        public virtual User Reviewer { get; set; }
+        [ForeignKey("Users")]
+        public int? UserId { get; set; } 
+        public virtual User? Reviewer { get; set; }
 
-        [ForeignKey("Craftsman")]
+        [ForeignKey("Craftsmens")]
         public int CraftsmanId { get; set; } 
-        public virtual Craftsman Craftsman { get; set; }
+        public virtual Craftsman? Craftsman { get; set; }
 
         public int Stars { get; set; }
         public string Comment { get; set; }

@@ -25,8 +25,8 @@ namespace DataAccess.Models
        
 
         
-        public virtual ICollection<Craftsman> CraftsmenProfiles { get; set; }
-        public virtual ICollection<Review> ReviewsWritten { get; set; }
-        public virtual ICollection<Report> ReportsFiled { get; set; }
+        public virtual ICollection<Craftsman>? CraftsmenProfiles { get; set; }
+        public virtual ICollection<Review>? ReviewsWritten { get; set; }
+        public virtual ICollection<Report>? ReportsFiled { get; set; }
     }
 }

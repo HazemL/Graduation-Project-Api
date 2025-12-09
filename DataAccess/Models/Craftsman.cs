@@ -12,13 +12,13 @@ namespace DataAccess.Models
     {
        
 
-        [ForeignKey("User")]
+        [ForeignKey("Users")]
         public int UserId { get; set; }
-        public virtual User User { get; set; }
+        public virtual User? User { get; set; }
 
-        [ForeignKey("Profession")]
+        [ForeignKey("Professions")]
         public int ProfessionId { get; set; }
-        public virtual Profession Profession { get; set; }
+        public virtual  Profession? Profession { get; set; }
 
         public string Bio { get; set; }
         public int ExperienceYears { get; set; }
@@ -34,10 +34,10 @@ namespace DataAccess.Models
   
 
         // Relationships
-        public virtual ICollection<CraftsmanCity> WorkedCities { get; set; }
-        public virtual ICollection<CraftsmanSkill> Skills { get; set; }
-        public virtual ICollection<Gallery> GalleryImages { get; set; }
-        public virtual ICollection<Review> Reviews { get; set; }
-        public virtual ICollection<CraftsmanSubscription> Subscriptions { get; set; }
+        public  virtual ICollection<CraftsmanCity>? WorkedCities { get; set; }
+        public  virtual ICollection<CraftsmanSkill>? Skills { get; set; }
+        public  virtual ICollection<Gallery>? GalleryImages { get; set; }
+        public  virtual ICollection<Review>? Reviews { get; set; }
+        public  virtual ICollection<CraftsmanSubscription>? Subscriptions { get; set; }
     }
 }

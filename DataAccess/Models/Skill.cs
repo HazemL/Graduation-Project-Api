@@ -14,6 +14,6 @@ namespace DataAccess.Models
         public string Name { get; set; }
         public string ArabicName { get; set; }
 
-        public virtual ICollection<CraftsmanSkill> CraftsmanSkills { get; set; }
+        public virtual ICollection<CraftsmanSkill>? CraftsmanSkills { get; set; }
     }
 }

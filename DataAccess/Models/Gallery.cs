@@ -12,9 +12,9 @@ namespace DataAccess.Models
     {
        
 
-        [ForeignKey("Craftsman")]
+        [ForeignKey("Craftsmens")]
         public int CraftsmanId { get; set; }
-        public virtual Craftsman Craftsman { get; set; }
+        public virtual Craftsman? Craftsman { get; set; }
 
         public string MediaUrl { get; set; }
         public string MediaType { get; set; } // Image, Video

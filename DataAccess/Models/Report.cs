@@ -12,13 +12,13 @@ namespace DataAccess.Models
     {
        
 
-        [ForeignKey("User")]
+        [ForeignKey("Users")]
         public int ReporterUserId { get; set; }
-        public virtual User Reporter { get; set; }
+        public virtual User? Reporter { get; set; }
 
-        [ForeignKey("Craftsman")]
+        [ForeignKey("Craftsmens")]
         public int CraftsmanId { get; set; }
-        public virtual Craftsman ReportedCraftsman { get; set; }
+        public virtual Craftsman? ReportedCraftsman { get; set; }
 
         public string Message { get; set; }
         public string Status { get; set; } // Pending, Resolved

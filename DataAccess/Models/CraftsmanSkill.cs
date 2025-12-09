@@ -13,14 +13,14 @@ namespace DataAccess.Models
     {
         
 
-        [ForeignKey("Craftsman")]
+        [ForeignKey("Craftsmens")]
         public int CraftsmanId { get; set; }
-        public virtual Craftsman Craftsman { get; set; }
+        public virtual Craftsman? Craftsman { get; set; }
 
-        [ForeignKey("Skill")]
+        [ForeignKey("Skills")]
         public int SkillId { get; set; }
-        public virtual Skill Skill { get; set; }
+        public virtual Skill? Skill { get; set; }
 
-        public string ProficiencyLevel { get; set; } // Beginner, Expert, etc.
+        public string? ProficiencyLevel { get; set; } // Beginner, Expert, etc.
     }
 }
