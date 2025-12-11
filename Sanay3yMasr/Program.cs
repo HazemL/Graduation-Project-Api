@@ -1,6 +1,7 @@
 using BusinessLogic.Services;
 using BusinessLogic.Services.Interfaces;
 using DataAccess.Context;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 
@@ -25,11 +26,13 @@ var app = builder.Build();
 // Pipeline
 if (app.Environment.IsDevelopment())
 {
-    app.MapSwagger();
-    //app.MapSwaggerUI();
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 
 app.UseHttpsRedirection();
 app.UseAuthorization();
+
+
 app.MapControllers();
 app.Run();

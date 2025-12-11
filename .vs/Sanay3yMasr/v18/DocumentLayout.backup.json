@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\welcome\\Desktop\\finall\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C55B728-95D1-408A-A635-C77AB2D42EBD}|Sanay3yMasr\\Sanay3yMasr.csproj|c:\\users\\welcome\\desktop\\finall\\sanay3ymasr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C55B728-95D1-408A-A635-C77AB2D42EBD}|Sanay3yMasr\\Sanay3yMasr.csproj|solutionrelative:sanay3ymasr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C55B728-95D1-408A-A635-C77AB2D42EBD}|Sanay3yMasr\\Sanay3yMasr.csproj|c:\\users\\welcome\\desktop\\finall\\sanay3ymasr\\controllers\\craftsmancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B728-95D1-408A-A635-C77AB2D42EBD}|Sanay3yMasr\\Sanay3yMasr.csproj|solutionrelative:sanay3ymasr\\controllers\\craftsmancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\welcome\\desktop\\finall\\businesslogic\\services\\craftsmanprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +15,28 @@
       "RelativeMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interfaces\\icraftsmanprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\welcome\\desktop\\finall\\businesslogic\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\welcome\\desktop\\finall\\businesslogic\\dtos\\craftsman\\craftsmanprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\craftsman\\craftsmanprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\welcome\\desktop\\finall\\businesslogic\\dtos\\craftsman\\addcraftsmandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\craftsman\\addcraftsmandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55B728-95D1-408A-A635-C77AB2D42EBD}|Sanay3yMasr\\Sanay3yMasr.csproj|c:\\users\\welcome\\desktop\\finall\\sanay3ymasr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C55B728-95D1-408A-A635-C77AB2D42EBD}|Sanay3yMasr\\Sanay3yMasr.csproj|solutionrelative:sanay3ymasr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\welcome\\desktop\\finall\\businesslogic\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\welcome\\desktop\\finall\\businesslogic\\dtos\\craftsman\\addcraftsmandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\craftsman\\addcraftsmandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,25 +65,47 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CraftsmanController.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\Sanay3yMasr\\Controllers\\CraftsmanController.cs",
+              "RelativeDocumentMoniker": "Sanay3yMasr\\Controllers\\CraftsmanController.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\Sanay3yMasr\\Controllers\\CraftsmanController.cs",
+              "RelativeToolTip": "Sanay3yMasr\\Controllers\\CraftsmanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:39:52.079Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "AddCraftsmanDto.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\DTOs\\Craftsman\\AddCraftsmanDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\Craftsman\\AddCraftsmanDto.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\DTOs\\Craftsman\\AddCraftsmanDto.cs",
+              "RelativeToolTip": "BusinessLogic\\DTOs\\Craftsman\\AddCraftsmanDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:39:42.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\Sanay3yMasr\\Program.cs",
               "RelativeDocumentMoniker": "Sanay3yMasr\\Program.cs",
               "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\Sanay3yMasr\\Program.cs",
               "RelativeToolTip": "Sanay3yMasr\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-11T11:39:37.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Models\\Review.cs",
               "RelativeDocumentMoniker": "DataAccess\\Models\\Review.cs",
@@ -92,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Gallery.cs",
               "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Models\\Gallery.cs",
               "RelativeDocumentMoniker": "DataAccess\\Models\\Gallery.cs",
@@ -100,11 +126,12 @@
               "RelativeToolTip": "DataAccess\\Models\\Gallery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T11:30:21.391Z"
+              "WhenOpened": "2025-12-11T11:30:21.391Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Models\\User.cs",
               "RelativeDocumentMoniker": "DataAccess\\Models\\User.cs",
@@ -112,23 +139,25 @@
               "RelativeToolTip": "DataAccess\\Models\\User.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T11:27:26.925Z"
+              "WhenOpened": "2025-12-11T11:27:26.925Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Context\\Context.cs",
               "RelativeDocumentMoniker": "DataAccess\\Context\\Context.cs",
               "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Context\\Context.cs",
               "RelativeToolTip": "DataAccess\\Context\\Context.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T17:15:46.77Z"
+              "WhenOpened": "2025-12-10T17:15:46.77Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CraftsmanProfileService.cs",
               "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\Services\\CraftsmanProfileService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\CraftsmanProfileService.cs",
@@ -136,11 +165,12 @@
               "RelativeToolTip": "BusinessLogic\\Services\\CraftsmanProfileService.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAiwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T17:15:28.569Z"
+              "WhenOpened": "2025-12-10T17:15:28.569Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\GlobalUsings.cs",
@@ -148,11 +178,12 @@
               "RelativeToolTip": "BusinessLogic\\GlobalUsings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T16:35:49.834Z"
+              "WhenOpened": "2025-12-10T16:35:49.834Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ICraftsmanProfileService.cs",
               "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\Interfaces\\ICraftsmanProfileService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Interfaces\\ICraftsmanProfileService.cs",
@@ -160,31 +191,21 @@
               "RelativeToolTip": "BusinessLogic\\Interfaces\\ICraftsmanProfileService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:01:16.391Z"
+              "WhenOpened": "2025-12-10T15:01:16.391Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AddCraftsmanDto.cs",
-              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\DTOs\\Craftsman\\AddCraftsmanDto.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\Craftsman\\AddCraftsmanDto.cs",
-              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\DTOs\\Craftsman\\AddCraftsmanDto.cs",
-              "RelativeToolTip": "BusinessLogic\\DTOs\\Craftsman\\AddCraftsmanDto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwA8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T14:52:00.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "CraftsmanProfileDto.cs",
               "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\DTOs\\Craftsman\\CraftsmanProfileDto.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\Craftsman\\CraftsmanProfileDto.cs",
               "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\DTOs\\Craftsman\\CraftsmanProfileDto.cs",
               "RelativeToolTip": "BusinessLogic\\DTOs\\Craftsman\\CraftsmanProfileDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T14:51:45.675Z"
+              "WhenOpened": "2025-12-10T14:51:45.675Z",
+              "EditorCaption": ""
             }
           ]
         }
