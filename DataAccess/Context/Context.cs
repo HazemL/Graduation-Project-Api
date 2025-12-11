@@ -14,20 +14,20 @@ namespace DataAccess.Context
         : base(options)
         {
         }
-        public DbSet<Models.City> Citys { get; set; }
-        public DbSet<Models.Craftsman> Craftsmens { get; set; }
-        public DbSet<Models.CraftsmanCity> CraftsmansCity { get; set; }
-        public DbSet<Models.CraftsmanSkill> CraftsmansSkills { get; set; }
-        public DbSet<Models.CraftsmanSubscription> CraftsmansSubscriptions { get; set; }
-        public DbSet<Models.Gallery> Gallerys { get; set; }
-        public DbSet<Models.Governorate> Governorates { get; set; }
-        public DbSet<Models.Payment> Payments { get; set; } 
-        public DbSet<Models.Profession> Professions { get; set; }
-        public DbSet<Models.Report> Reports { get; set; }
-        public DbSet<Models.Review> Reviews { get; set; }
-        public DbSet<Models.Skill> Skills { get; set; }
-        public DbSet<Models.SubscriptionPlan> SubscriptionPlans { get; set; }
-        public DbSet<Models.User> Users { get; set; }
+        public DbSet<City> Citys { get; set; }
+        public DbSet<Craftsman> Craftsmens { get; set; }
+        public DbSet<CraftsmanCity> CraftsmansCity { get; set; }
+        public DbSet<CraftsmanSkill> CraftsmansSkills { get; set; }
+        public DbSet<CraftsmanSubscription> CraftsmansSubscriptions { get; set; }
+        public DbSet<Gallery> Gallerys { get; set; }
+        public DbSet<Governorate> Governorates { get; set; }
+        public DbSet<Payment> Payments { get; set; } 
+        public DbSet<Profession> Professions { get; set; }
+        public DbSet<Report> Reports { get; set; }
+        public DbSet<Review> Reviews { get; set; }
+        public DbSet<Skill> Skills { get; set; }
+        public DbSet<SubscriptionPlan> SubscriptionPlans { get; set; }
+        public DbSet<User> Users { get; set; }
       
 
 
