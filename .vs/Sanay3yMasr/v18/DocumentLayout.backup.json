@@ -3,48 +3,180 @@
   "WorkspaceRootPath": "C:\\Users\\welcome\\Desktop\\finall\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C55B728-95D1-408A-A635-C77AB2D42EBD}|Sanay3yMasr\\Sanay3yMasr.csproj|c:\\users\\welcome\\desktop\\finall\\sanay3ymasr\\controllers\\craftsmancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C55B728-95D1-408A-A635-C77AB2D42EBD}|Sanay3yMasr\\Sanay3yMasr.csproj|solutionrelative:sanay3ymasr\\controllers\\craftsmancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\entities\\reviewentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\reviewentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\welcome\\desktop\\finall\\businesslogic\\services\\craftsmanprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\craftsmanprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\entities\\reportentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\reportentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\welcome\\desktop\\finall\\businesslogic\\interfaces\\icraftsmanprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interfaces\\icraftsmanprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\entities\\professionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\professionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\welcome\\desktop\\finall\\businesslogic\\dtos\\craftsman\\craftsmanprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\craftsman\\craftsmanprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\entities\\governorateentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\governorateentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\welcome\\desktop\\finall\\businesslogic\\dtos\\craftsman\\addcraftsmandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dtos\\craftsman\\addcraftsmandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\seeding\\userseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\seeding\\userseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C55B728-95D1-408A-A635-C77AB2D42EBD}|Sanay3yMasr\\Sanay3yMasr.csproj|c:\\users\\welcome\\desktop\\finall\\sanay3ymasr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C55B728-95D1-408A-A635-C77AB2D42EBD}|Sanay3yMasr\\Sanay3yMasr.csproj|solutionrelative:sanay3ymasr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\seeding\\subscriptionplanseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\seeding\\subscriptionplanseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\seeding\\reviewseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\seeding\\reviewseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\seeding\\reportseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\seeding\\reportseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\welcome\\desktop\\finall\\businesslogic\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639EF3EA-F12E-4F9C-A537-770204BE02AD}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\seeding\\paymentseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\seeding\\paymentseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\repository\\subscriptionplanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\subscriptionplanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\mapping\\subscriptionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\mapping\\subscriptionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\repository\\skillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\skillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\mapping\\skillmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\mapping\\skillmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\mapping\\reviewmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\mapping\\reviewmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\repository\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\mapping\\reportmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\mapping\\reportmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\repository\\professionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\professionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\mapping\\professionmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\mapping\\professionmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\mapping\\paymentmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\mapping\\paymentmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\repository\\governoraterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\governoraterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\mapping\\governoratemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\mapping\\governoratemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\repository\\galleryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\galleryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\mapping\\gallerymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\mapping\\gallerymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\repository\\craftsmansubscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\craftsmansubscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\mapping\\craftsmanskillmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\mapping\\craftsmanskillmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\repository\\craftsmanskillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\craftsmanskillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\repository\\craftsmancityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\craftsmancityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\repository\\craftsmanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\craftsmanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\mapping\\craftsmanmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\mapping\\craftsmanmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|c:\\users\\welcome\\desktop\\finall\\dataaccess\\repository\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03542053-9D02-44CA-A4C4-7D3A04ADDC51}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|c:\\users\\welcome\\desktop\\finall\\domain\\entities\\subscriptionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\subscriptionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|c:\\users\\welcome\\desktop\\finall\\domain\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|c:\\users\\welcome\\desktop\\finall\\domain\\entities\\profession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\profession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|c:\\users\\welcome\\desktop\\finall\\domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|c:\\users\\welcome\\desktop\\finall\\domain\\entities\\governorate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\governorate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|c:\\users\\welcome\\desktop\\finall\\domain\\entities\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|c:\\users\\welcome\\desktop\\finall\\domain\\entities\\craftsmansubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\craftsmansubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|c:\\users\\welcome\\desktop\\finall\\domain\\entities\\craftsmanskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\craftsmanskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|c:\\users\\welcome\\desktop\\finall\\domain\\entities\\craftsmancity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\craftsmancity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|c:\\users\\welcome\\desktop\\finall\\domain\\entities\\craftsman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\craftsman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|c:\\users\\welcome\\desktop\\finall\\domain\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|c:\\users\\welcome\\desktop\\finall\\domain\\common\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126D2243-2D73-4AD5-8DBC-374554F5BB56}|Domain\\Domain.csproj|solutionrelative:domain\\common\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,144 +199,573 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CraftsmanController.cs",
-              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\Sanay3yMasr\\Controllers\\CraftsmanController.cs",
-              "RelativeDocumentMoniker": "Sanay3yMasr\\Controllers\\CraftsmanController.cs",
-              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\Sanay3yMasr\\Controllers\\CraftsmanController.cs",
-              "RelativeToolTip": "Sanay3yMasr\\Controllers\\CraftsmanController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Title": "ReviewEntity.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Entities\\ReviewEntity.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\ReviewEntity.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Entities\\ReviewEntity.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\ReviewEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T15:39:52.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddCraftsmanDto.cs",
-              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\DTOs\\Craftsman\\AddCraftsmanDto.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\Craftsman\\AddCraftsmanDto.cs",
-              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\DTOs\\Craftsman\\AddCraftsmanDto.cs",
-              "RelativeToolTip": "BusinessLogic\\DTOs\\Craftsman\\AddCraftsmanDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T15:39:42.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\Sanay3yMasr\\Program.cs",
-              "RelativeDocumentMoniker": "Sanay3yMasr\\Program.cs",
-              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\Sanay3yMasr\\Program.cs",
-              "RelativeToolTip": "Sanay3yMasr\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T11:39:37.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Models\\Review.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Models\\Review.cs",
-              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Models\\Review.cs",
-              "RelativeToolTip": "DataAccess\\Models\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T11:31:14.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Gallery.cs",
-              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Models\\Gallery.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Models\\Gallery.cs",
-              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Models\\Gallery.cs",
-              "RelativeToolTip": "DataAccess\\Models\\Gallery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T11:30:21.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Models\\User.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Models\\User.cs",
-              "RelativeToolTip": "DataAccess\\Models\\User.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T11:27:26.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Context\\Context.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Context\\Context.cs",
-              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Context\\Context.cs",
-              "RelativeToolTip": "DataAccess\\Context\\Context.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T17:15:46.77Z",
+              "WhenOpened": "2025-12-12T14:45:46.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CraftsmanProfileService.cs",
-              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\Services\\CraftsmanProfileService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Services\\CraftsmanProfileService.cs",
-              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\Services\\CraftsmanProfileService.cs",
-              "RelativeToolTip": "BusinessLogic\\Services\\CraftsmanProfileService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwFcAAAAAAAAAAAAAAA==",
+              "Title": "ReportEntity.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Entities\\ReportEntity.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\ReportEntity.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Entities\\ReportEntity.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\ReportEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T17:15:28.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\GlobalUsings.cs",
-              "RelativeToolTip": "BusinessLogic\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T16:35:49.834Z",
+              "WhenOpened": "2025-12-12T14:41:36.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ICraftsmanProfileService.cs",
-              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\Interfaces\\ICraftsmanProfileService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Interfaces\\ICraftsmanProfileService.cs",
-              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\Interfaces\\ICraftsmanProfileService.cs",
-              "RelativeToolTip": "BusinessLogic\\Interfaces\\ICraftsmanProfileService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Title": "ProfessionEntity.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Entities\\ProfessionEntity.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\ProfessionEntity.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Entities\\ProfessionEntity.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\ProfessionEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:01:16.391Z",
+              "WhenOpened": "2025-12-12T14:40:11.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CraftsmanProfileDto.cs",
-              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\DTOs\\Craftsman\\CraftsmanProfileDto.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\DTOs\\Craftsman\\CraftsmanProfileDto.cs",
-              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\DTOs\\Craftsman\\CraftsmanProfileDto.cs",
-              "RelativeToolTip": "BusinessLogic\\DTOs\\Craftsman\\CraftsmanProfileDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAUAAAAoAAAAAAAAAA==",
+              "Title": "GovernorateEntity.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Entities\\GovernorateEntity.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\GovernorateEntity.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Entities\\GovernorateEntity.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\GovernorateEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T14:51:45.675Z",
+              "WhenOpened": "2025-12-12T14:34:54.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserSeed.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Seeding\\UserSeed.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Seeding\\UserSeed.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Seeding\\UserSeed.cs",
+              "RelativeToolTip": "DataAccess\\Seeding\\UserSeed.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:02:49.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubscriptionPlanSeed.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Seeding\\SubscriptionPlanSeed.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Seeding\\SubscriptionPlanSeed.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Seeding\\SubscriptionPlanSeed.cs",
+              "RelativeToolTip": "DataAccess\\Seeding\\SubscriptionPlanSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:02:37.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReviewSeed.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Seeding\\ReviewSeed.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Seeding\\ReviewSeed.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Seeding\\ReviewSeed.cs",
+              "RelativeToolTip": "DataAccess\\Seeding\\ReviewSeed.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:09:44.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportSeed.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Seeding\\ReportSeed.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Seeding\\ReportSeed.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Seeding\\ReportSeed.cs",
+              "RelativeToolTip": "DataAccess\\Seeding\\ReportSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:09:55.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentSeed.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Seeding\\PaymentSeed.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Seeding\\PaymentSeed.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Seeding\\PaymentSeed.cs",
+              "RelativeToolTip": "DataAccess\\Seeding\\PaymentSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:09:25.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SubscriptionPlanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\SubscriptionPlanRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\SubscriptionPlanRepository.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\SubscriptionPlanRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\SubscriptionPlanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:53:34.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubscriptionPlan.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\SubscriptionPlan.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Mapping\\SubscriptionPlan.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\SubscriptionPlan.cs",
+              "RelativeToolTip": "DataAccess\\Mapping\\SubscriptionPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:53:19.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SkillRepository.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\SkillRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\SkillRepository.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\SkillRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\SkillRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:51:28.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SkillMapping.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\SkillMapping.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Mapping\\SkillMapping.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\SkillMapping.cs",
+              "RelativeToolTip": "DataAccess\\Mapping\\SkillMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:51:15.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\ReviewRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\ReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:49:45.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReviewMapping.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\ReviewMapping.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Mapping\\ReviewMapping.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\ReviewMapping.cs",
+              "RelativeToolTip": "DataAccess\\Mapping\\ReviewMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:49:33.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\ReportRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\ReportRepository.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\ReportRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\ReportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:48:09.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportMapping.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\ReportMapping.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Mapping\\ReportMapping.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\ReportMapping.cs",
+              "RelativeToolTip": "DataAccess\\Mapping\\ReportMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:47:52.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProfessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\ProfessionRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\ProfessionRepository.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\ProfessionRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\ProfessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:45:39.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProfessionMapping.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\ProfessionMapping.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Mapping\\ProfessionMapping.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\ProfessionMapping.cs",
+              "RelativeToolTip": "DataAccess\\Mapping\\ProfessionMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:45:06.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\PaymentRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\PaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:43:06.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaymentMapping.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\PaymentMapping.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Mapping\\PaymentMapping.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\PaymentMapping.cs",
+              "RelativeToolTip": "DataAccess\\Mapping\\PaymentMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:42:47.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GovernorateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\GovernorateRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\GovernorateRepository.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\GovernorateRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\GovernorateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:41:30.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GovernorateMapping.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\GovernorateMapping.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Mapping\\GovernorateMapping.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\GovernorateMapping.cs",
+              "RelativeToolTip": "DataAccess\\Mapping\\GovernorateMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:41:07.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GalleryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\GalleryRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\GalleryRepository.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\GalleryRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\GalleryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:40:06.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GalleryMapping.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\GalleryMapping.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Mapping\\GalleryMapping.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\GalleryMapping.cs",
+              "RelativeToolTip": "DataAccess\\Mapping\\GalleryMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:39:50.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CraftsmanSubscriptionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\CraftsmanSubscriptionRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\CraftsmanSubscriptionRepository.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\CraftsmanSubscriptionRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\CraftsmanSubscriptionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:38:45.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CraftsmanSkillMapping.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\CraftsmanSkillMapping.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Mapping\\CraftsmanSkillMapping.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\CraftsmanSkillMapping.cs",
+              "RelativeToolTip": "DataAccess\\Mapping\\CraftsmanSkillMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:37:05.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CraftsmanSkillRepository.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\CraftsmanSkillRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\CraftsmanSkillRepository.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\CraftsmanSkillRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\CraftsmanSkillRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:36:41.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CraftsmanCityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\CraftsmanCityRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\CraftsmanCityRepository.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\CraftsmanCityRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\CraftsmanCityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:34:52.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CraftsmanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\CraftsmanRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\CraftsmanRepository.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\CraftsmanRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\CraftsmanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:32:17.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CraftsmanMapping.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\CraftsmanMapping.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Mapping\\CraftsmanMapping.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Mapping\\CraftsmanMapping.cs",
+              "RelativeToolTip": "DataAccess\\Mapping\\CraftsmanMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:31:46.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\CityRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\Repository\\CityRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\CityRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:29:59.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SubscriptionPlan.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\SubscriptionPlan.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\SubscriptionPlan.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\SubscriptionPlan.cs",
+              "RelativeToolTip": "Domain\\Entities\\SubscriptionPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:50:53.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\Skill.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Skill.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\Skill.cs",
+              "RelativeToolTip": "Domain\\Entities\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:48:34.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Profession.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\Profession.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Profession.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\Profession.cs",
+              "RelativeToolTip": "Domain\\Entities\\Profession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:40:57.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:39:20.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Governorate.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\Governorate.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Governorate.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\Governorate.cs",
+              "RelativeToolTip": "Domain\\Entities\\Governorate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:35:55.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\Gallery.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Gallery.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\Gallery.cs",
+              "RelativeToolTip": "Domain\\Entities\\Gallery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:33:11.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CraftsmanSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\CraftsmanSubscription.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\CraftsmanSubscription.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\CraftsmanSubscription.cs",
+              "RelativeToolTip": "Domain\\Entities\\CraftsmanSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:31:46.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CraftsmanSkill.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\CraftsmanSkill.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\CraftsmanSkill.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\CraftsmanSkill.cs",
+              "RelativeToolTip": "Domain\\Entities\\CraftsmanSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:29:35.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CraftsmanCity.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\CraftsmanCity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\CraftsmanCity.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\CraftsmanCity.cs",
+              "RelativeToolTip": "Domain\\Entities\\CraftsmanCity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:27:00.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Craftsman.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\Craftsman.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Craftsman.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\Craftsman.cs",
+              "RelativeToolTip": "Domain\\Entities\\Craftsman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:26:10.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\City.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Entities\\City.cs",
+              "RelativeToolTip": "Domain\\Entities\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:25:09.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Common\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\welcome\\Desktop\\finall\\Domain\\Common\\BaseModel.cs",
+              "RelativeToolTip": "Domain\\Common\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:19:45.175Z",
               "EditorCaption": ""
             }
           ]

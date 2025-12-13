@@ -13,18 +13,3 @@ C:\Users\Computer Market\Desktop\GraduationProject\Sanay3yMasr\DataAccess\obj\De
 C:\Users\Computer Market\Desktop\GraduationProject\Sanay3yMasr\DataAccess\obj\Debug\net9.0\DataAccess.pdb
 C:\Users\Computer Market\Desktop\GraduationProject\Sanay3yMasr\DataAccess\obj\Debug\net9.0\DataAccess.genruntimeconfig.cache
 C:\Users\Computer Market\Desktop\GraduationProject\Sanay3yMasr\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll
-C:\Users\welcome\Desktop\finall\DataAccess\bin\Debug\net9.0\DataAccess.deps.json
-C:\Users\welcome\Desktop\finall\DataAccess\bin\Debug\net9.0\DataAccess.runtimeconfig.json
-C:\Users\welcome\Desktop\finall\DataAccess\bin\Debug\net9.0\DataAccess.dll
-C:\Users\welcome\Desktop\finall\DataAccess\bin\Debug\net9.0\DataAccess.pdb
-C:\Users\welcome\Desktop\finall\DataAccess\obj\Debug\net9.0\DataAccess.csproj.AssemblyReference.cache
-C:\Users\welcome\Desktop\finall\DataAccess\obj\Debug\net9.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\welcome\Desktop\finall\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfoInputs.cache
-C:\Users\welcome\Desktop\finall\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfo.cs
-C:\Users\welcome\Desktop\finall\DataAccess\obj\Debug\net9.0\DataAccess.csproj.CoreCompileInputs.cache
-C:\Users\welcome\Desktop\finall\DataAccess\obj\Debug\net9.0\DataAccess.sourcelink.json
-C:\Users\welcome\Desktop\finall\DataAccess\obj\Debug\net9.0\DataAccess.dll
-C:\Users\welcome\Desktop\finall\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
-C:\Users\welcome\Desktop\finall\DataAccess\obj\Debug\net9.0\DataAccess.pdb
-C:\Users\welcome\Desktop\finall\DataAccess\obj\Debug\net9.0\DataAccess.genruntimeconfig.cache
-C:\Users\welcome\Desktop\finall\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll

@@ -31,11 +31,7 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {
-              "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\welcome\\Desktop\\finall\\DataAccess\\DataAccess.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -108,7 +104,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\welcome\\Desktop\\finall\\BusinessLogic\\BusinessLogic.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
